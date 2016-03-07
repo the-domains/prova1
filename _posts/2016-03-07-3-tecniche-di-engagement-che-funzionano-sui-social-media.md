@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T11:48:41.006Z'
-dateModified: '2016-03-07T11:48:06.904Z'
+datePublished: '2016-03-07T11:58:45.452Z'
+dateModified: '2016-03-07T11:48:44.171Z'
 title: 3 TECNICHE DI ENGAGEMENT CHE FUNZIONANO SUI SOCIAL MEDIA
 author: []
+sourcePath: _posts/2016-03-07-3-tecniche-di-engagement-che-funzionano-sui-social-media.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-3-tecniche-di-engagement-che-funzionano-sui-social-media.md
-published: true
 url: 3-tecniche-di-engagement-che-funzionano-sui-social-media/index.html
 _type: Article
 
