@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Prova1]]></title>
+        <description><![CDATA[Prova1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 11:56:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[3 TECNICHE DI ENGAGEMENT CHE FUNZIONANO SUI SOCIAL MEDIA]]></title>
+            <description><![CDATA[<article><h1>3 TECNICHE DI ENGAGEMENT CHE FUNZIONANO SUI SOCIAL MEDIA</h1><p>Hai bisogno di nuove idee per il tuo social media marketing?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3cea0e-52ed-4e2a-a03e-05b7edf102de.png"></article>]]></description>
+            <link>undefined3-tecniche-di-engagement-che-funzionano-sui-social-media/index.html</link>
+            <guid isPermaLink="false">cf94dc2e-8f12-42fa-8433-d798ce666fcc</guid>
+            <pubDate>Mon, 07 Mar 2016 11:48:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
