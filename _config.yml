@@ -1,0 +1,28 @@
+name: Prova1
+favicon: null
+layout_spectrum: 0.2712614976335317
+typography_spectrum: 0.9210049877874553
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.32571867876686156
+  lightness: 0.03075480298139155
+  saturation: 0.9208929750602692
+  rhythmicContrast: 0.30689861066639423
+purpose: []
